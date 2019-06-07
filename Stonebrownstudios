@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<div id="landing">
+  <div class="svg-wrapper">
+    <a id="jump" href="#portfolio">
+      <svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
+    <rect class="shape" height="60" width="320" />
+    <div class="text">Tiara Tang</div>
+    </svg></a>
+  </div>
+</div>
+<div id="portfolio">
+  <div id="port-wrapper">
+    <div class="text-2">
+      <button id="first" href="#text-changer-1"><h2>About</h2></button>
+      <button id="second" href="#text-changer-2"><h2>Portfolio</h2></button>
+      <button id="third" href="#text-changer-3"><h2>Contact</h2></button>
+      <div id="text-changer-1" class="content">
+        <p><img src="https://media.licdn.com/dms/image/C5603AQEDnQwfv784IQ/profile-displayphoto-shrink_100_100/0?e=1525831200&v=alpha&t=ram8JFB91T4RjeTJjIFEbOgvwoPaert4QxXW32VoX38" style="float:bottom"/><br>
+        <p>Hi! I'm Tiara. I design and code beautifully simple things, and I love what I do.<br><br> I started programming because I wanted to be come a mobile app developer. I am a self taught developer. I've always had an interest in coding. </p>
+        
+    <p>I am proficient with a bunch of different programming languages. From HTML, CSS, JavaScript, JQuery, also familar with Python, PHP, SQL, Ruby and Ruby on Rails, Command Line.</p>
+    <p>I have taken coding courses in Code Academy, GA dash, The Odin Project, Udacity, and also Free Code Camp.</p>
+    <p> My goal is to bring what I learn from this course to either change my career path or do freelance work on my own. If you wanna get in touch, talk to me about a project collaboration or just say hi, contact</p>
+      </div>
+          <div id="text-changer-2" class="content row">
+        <div class="col-sm-3 col-xs-6">
+          <div class="project">
+            <a href="https://codepen.io/tiaratang/full/dzYLQB/">dating app<br><img class="displayed" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsaJuFaZzhPfDwxEHkExMbho_hF6d5NKnZnl1YGbFdvirYw4K2"></a>
+            
+            </div>
+        </div>
+        <div class="col-sm-3 col-xs-6">
+          <div class="project">
+            <a href="https://codepen.io/tiaratang/full/peYqmq/">Random Quotes<br><img class="displayed" src="http://twistedsifter.files.wordpress.com/2013/05/animated-gifs-of-fighting-game-backgrounds-31.gif?w=800&h=336"></a>
+          
+            
+          </div>
+        </div>
+        <div class="col-sm-3 col-xs-6">
+          <div class="project">
+            <a href="https://codepen.io/tiaratang/full/XgdvWG/">stoa innovative template<br><img class="displayed" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/53148/bg.jpg"></a>
+          
+          </div>
+        </div>
+          <div class="col-sm-3 col-xs-6">
+            <div class="project">
+            <a href="https://codepen.io/tiaratang/pen/Njdrqa">calculator<br><img class="displayed" src="http://compass1.org/wp-content/uploads/2015/06/Calculator_clipped_rev_1.png"></a>
+            </div>
+        </div>
+        <div class="col-sm-3 col-xs-6">
+          <div class="project">
+            <a href="https://codepen.io/tiaratang/full/NjWzLb/">Twitch<br><img class="displayed" src="https://s3-us-west-2.amazonaws.com/web-design-ext-production/p/Combologo_474x356.png"></a>         
+            
+          </div>
+        </div>
+          <div class="col-sm-3 col-xs-6">
+            <div class="project">
+              <a href="https://codepen.io/tiaratang/full/LyPMor/">Wiki viewer<br><img class="displayed" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/103px-Wikipedia-logo-v2.svg.png"></a>           
+              
+            </div>
+        </div>
+        <div class="col-sm-3 col-xs-6">
+          <div class="project">
+            <a href="https://codepen.io/tiaratang/full/qmpRGP/">Tic-Tac-Toe<br><img class="displayed" src="https://lh3.ggpht.com/00-30hbJXWJMt4NFdEqE0fMdZpajROY9PNDJ49xTG3JD8uOe4A-C-TS8gj6Cue9_t7A=h900"></a>
+            
+          </div>
+        </div>
+       <div class="col-sm-3 col-xs-6">
+         <div class="project">
+           <a href="https://codepen.io/tiaratang/full/oWexmp/">simon<br><img class="displayed" src="https://images-na.ssl-images-amazon.com/images/I/51yq1kfdZzL._SL500_AC_SS350_.jpg"></a>
+           
+         </div>
+        </div>
+        
+      </div>
+      <div id="text-changer-3" class="content">
+        <p>Get in touch or follow me at:<br>
+          <div class="social">
+            <a href="https://www.linkedin.com/in/tiara-tang-87244731" target="_blank"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a>
+            <a href="https://github.com/tiaratang" target="_blank"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+            <a href="https://angryasianvoices.blogspot.com/" target="_blank"><i class="fa fa-rss-square fa-2x" aria-hidden="true"></i></a>
+            <a href="https://plus.google.com/u/0/106136803567906958695" target="_blank"><i class="fa fa-google-plus-square fa-2x" aria-hidden="true"></i></a>
+          </div>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<html/>
